@@ -46,7 +46,7 @@ export const lightPalette = {
   accent100: '#FBFCDB',
   accent200: '#FFF787',
   accent600: '#FFF04D',
-  accent700: '#f2c09b',
+  accent700: '#5988AB',
   accent800: '#FFF100',
   accent900: '#EDCF00',
   border: '#4B4D4D',
@@ -84,7 +84,7 @@ export const lightPalette = {
   ctaBg:
     'linear-gradient(71.28deg, #191B22 -21.07%, #20232A 67.73%),linear-gradient(90.65deg, #FADECA 17.08%, #BEE4FA 87.78%)',
 
-  link: '#f2c09b',
+  link: '#5988AB',
   autoThemeButton: '#6C6F74',
   searchShadow: '#16181D90',
   editPageColor: '#484E5E',
@@ -125,7 +125,7 @@ export const darkPalette = {
   neutral900: '#FFFFFF',
   accent100: '#FBFCDB',
   accent600: '#FFF04D',
-  accent700: '#f2c09b',
+  accent700: '#5988AB',
   accent800: '#FFF100',
   accent900: '#EDCF00',
   border: '#4B4D4D',
@@ -160,7 +160,7 @@ export const darkPalette = {
     'linear-gradient(254.24deg, #E9DEFA 0%, #FBFCDB 100%, #FBFCDB 100%);',
   neutralBackground:
     'linear-gradient(180deg, #FFFFFF 7.96%, rgba(255, 255, 255, 0.484844) 18.71%, rgba(255, 255, 255, 0) 28.83%, rgba(255, 255, 255, 0) 68.82%, #FFFFFF 91.43%);',
-  link: '#f2c09b',
+  link: '#5988AB',
   autoThemeButton: '#6C6F74',
   searchShadow: '#B0B2B590',
   editPageColor: '#D2D3D5',
